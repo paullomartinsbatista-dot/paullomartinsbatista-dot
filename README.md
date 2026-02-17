@@ -1,5 +1,5 @@
 #paullomartinsbatista-dot <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
-<h1>Olá! Eu sou <a href="https://github.com/Defcon27">Paulo</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1>Olá! Eu sou o <a href="https://github.com/Defcon27">Paulo</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
 ### 📬 Onde me encontrar
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/) 
@@ -19,7 +19,7 @@ Adoro criar materiais didáticos, projetos práticos e soluções educacionais q
 
 ## ⚡️ Alguns fatos rápidos
 
-- 🔭 Atualmente atuo como professora, ensinando Tecnologia, Lógica de Programação e Computação para diferentes níveis de ensino
+- 🔭 Atualmente sou aluno do curso de Desenvolvimento de sistemas, apaixonado em  Tecnologia, Lógica de Programação e Computação.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Gosto de trabalhar com:
   - 🧠 Lógica de Programação (principalmente com Python)
   - 📊 Projetos simples de dados e introdução ao BI
